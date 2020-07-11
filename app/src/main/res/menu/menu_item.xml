@@ -1,0 +1,9 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".GeoFencing">
+
+    <item
+        android:id="@+id/setGeoFence" android:icon="@drawable/ic_add_location" app:showAsAction="ifRoom"   android:title="@string/setLoc"/>
+    <item
+        android:id="@+id/getGeoFence" android:icon="@drawable/ic_my_location" app:showAsAction="ifRoom" android:title="@string/getLoc"/>
+</menu>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android  Wonders</string>
+    <string name="emailBtnLbl">Email  </string>
+    <string name="callBtnLbl">Call</string>
+    <string name="mailNowBtnLbl">Email Now </string>
+    <string name="callNowBtnLbl">Call Now </string>
+    <string name="takeImgBtnLbl">Take picture </string>
+    <string name="nameLbl">Your name</string>
+    <string name="setLoc">Set GeoLocation </string>
+    <string name="getLoc">Get GeoLocation</string>
+</resources>
