@@ -34,7 +34,7 @@ Select the Slack tab button to post a message to slack api
 
 #### Geolocation
 
-Geolocation tab allows the user to add the current location as a new geofence using the "add geolocation" menu item. Every time the usere enters the geofence he receives a notification with the location`s lat and lo
+Geolocation tab allows the user to add the current location as a new geofence using the "add geolocation" menu item. Every time the usere enters the geofence he receives a notification with the location`s lat and lon
 
 <img src="https://github.com/NiveditaNeethirajan/AndroidWonders/blob/master/Geolocation.png" width="250" height="500">
 
